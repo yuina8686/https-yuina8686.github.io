@@ -40,3 +40,28 @@ body p {
     margin: 10px auto;
     text-decoration: none;
 }
+.twitter-timeline {
+    margin-left: 350px;
+    margin-top: -700px;
+    float: left;
+}
+.icon {
+    width: 150px;
+    list-style-type: none;
+    margin-left: 230px;
+}
+.one {
+    width: 480px;
+    margin-left: 70px;
+}
+.menu {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-right: 750px;
+}
+.mena {
+    text-decoration: none;
+    color: black;
+}
